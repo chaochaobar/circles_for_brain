@@ -1,0 +1,12 @@
+LobeID	GyrusID	featureStart	featureEnd	barColor
+Frontal_Lobe	SFG	0	1	9e405d
+Frontal_Lobe	PrG	1	4	9e405d
+Frontal_Lobe	PCL	4	5	9e405d
+Temporal_Lobe	STG	0	2	4567AA
+Temporal_Lobe	MTG	2	4	4567AA
+Temporal_Lobe	FuG	4	7	4567AA
+Parietal_Lobe	SPL	0	2	fbdfe4
+Parietal_Lobe	IPL	2	4	fbdfe4
+Parietal_Lobe	PoG	4	6	fbdfe4
+Occipital_Lobe	MVOcC	0	1	c9c9c9
+Occipital_Lobe	LOcC	1	5	c9c9c9

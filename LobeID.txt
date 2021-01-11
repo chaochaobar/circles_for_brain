@@ -1,0 +1,5 @@
+LobeID	LobeStart	LobeEnd
+Frontal_Lobe	0	5
+Temporal_Lobe	0	7
+Parietal_Lobe	0	6
+Occipital_Lobe	0	5
